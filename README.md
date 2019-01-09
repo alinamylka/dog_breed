@@ -4,9 +4,6 @@ Convolutional Neural Networks
 Project: Algorithm for a Dog Identification App
 ----------------------------------------------------------------------------------------------------------------------
 
-* * * * *
-
-
 First steps towards developing an algorithm that could be used as part of a mobile or web app. 
 The code accept any user-supplied image as input.
 If a dog is detected in the image, it will provide an estimate of the
